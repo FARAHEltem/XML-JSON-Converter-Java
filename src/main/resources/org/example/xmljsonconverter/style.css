@@ -1,0 +1,15 @@
+.root {
+    -fx-focus-color: #2c3e50;
+    -fx-faint-focus-color: #2c3e5022;
+}
+
+.combo-box .list-view .list-cell:hover,
+.combo-box .list-view .list-cell:filled:selected {
+    -fx-background-color: #2c3e50;
+    -fx-text-fill: white;
+}
+
+.text-area {
+    -fx-border-color: #ced4da;
+    -fx-border-radius: 3;
+}
